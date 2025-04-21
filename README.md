@@ -10,6 +10,7 @@ To run this project locally:
 
 (1)Clone the repository:
 git clone https://github.com/snorm03/portfolio-project.git
+
 cd your-repo-name
 
 (2)Install dependencies:
